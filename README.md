@@ -1,2 +1,2 @@
-# ReactJS-Projects
-My ReactJS projects 
+# ReactJS-Beginner-Projects
+My ReactJS Beginner projects 
