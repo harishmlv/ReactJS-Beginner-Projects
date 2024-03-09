@@ -62,6 +62,7 @@ return(
                      <input type="text" placeholder="Result" value={result}/>
                  </td>
             </tr>
+    </table>
             <tr>
                 <td>
                 <button type="submit" onClick={handleSumButton}>Sum ( + )</button>
@@ -87,7 +88,7 @@ return(
                 <button type="submit" onClick={handleClearButton}>Clear</button>
                 </td>
             </tr>
-    </table></center>
+      </center>
     </div>
 );
 }
